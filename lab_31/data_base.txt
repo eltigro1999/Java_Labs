@@ -1,0 +1,10 @@
+Motorbike|Yamaha|YBR125|200|1|110|0
+Motorbike|Suzuki|V-STROM|200|2|173|1
+Car|Lada|Sedan|1000|5|150|2
+Trailer|dasldk|lasdksk|1232|2312|2132|3
+Trailer|dksadl|alsdk|1232|2132|213|4
+Truck|Mercedes Benz|Actros|135000|40|162|5
+Bus|Hyundai|H350|1400|14|173|6
+Bus|Man|Lion's coach|25300|59|120|7
+Trailer|SCHMITZ|ACF|20000|21|162|8
+Trailer|Krone|Model|10000|40|125|9
