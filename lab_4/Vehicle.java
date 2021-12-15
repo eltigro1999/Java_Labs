@@ -1,4 +1,4 @@
-abstract class Vehicle {
+public abstract class Vehicle {
 	protected String brand;
 	protected String model;
 	protected int max_cargo_weight;

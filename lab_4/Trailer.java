@@ -1,4 +1,4 @@
-class Trailer extends Vehicle {
+public class Trailer extends Vehicle {
 	boolean hasTruck=false;
 	Truck truck=null;
 	Trailer() {

@@ -1,3 +1,5 @@
+import java.io.IOException;
+
 class Test {
 	static void Polymorphism(Vehicle vehicle) {	//Shows info about the object
 		System.out.println( vehicle.GetBrand());
@@ -46,7 +48,11 @@ class Test {
 		System.out.println("Speed:"+trailer.GetMaxSpeed());
 	}
 
-	public static void main(String args[]) {
-		lab2();
+	public static void main(String[] args) throws IOException {
+		ErrMsgLog eml=new ErrMsgLog();
+		for (int i = 10; i != 1000; i *= 10) {
+			Create.VehicleArrayList(i, eml);
+			Create.VehicleLinkedList(i, eml);
+		}
 	}
 }

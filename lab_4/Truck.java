@@ -1,4 +1,4 @@
-class Truck extends Vehicle {
+public class Truck extends Vehicle {
 	Truck() {
 		super("Man", "F2000", 25000, 50, 150);
 	}

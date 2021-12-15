@@ -1,4 +1,4 @@
-class Motorbike extends Vehicle {
+public class Motorbike extends Vehicle {
 	public Motorbike() {
 		super("Yamaha", "YBR125", 200, 1, 110);
 	}

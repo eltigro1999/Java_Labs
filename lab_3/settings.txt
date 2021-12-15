@@ -1,9 +1,0 @@
-Users info:
-
-root:
-login: edmon_login
-password: edmon_password
-
-user:
-login: notedmon_login
-password: notedmon_password

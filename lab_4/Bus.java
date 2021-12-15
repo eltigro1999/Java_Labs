@@ -1,4 +1,4 @@
-class Bus extends Vehicle{
+public class Bus extends Vehicle{
 	Bus() {
 		super("Hyundai", "H350", 1400, 14, 173);
 	}
